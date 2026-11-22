@@ -119,3 +119,20 @@ npm install
 npm run dev
 ```
 
+Buka URL lokal yang ditampilkan (biasanya `http://localhost:5173`) pada browser Anda.
+
+Screenshoot
+<img width="1855" height="1140" alt="image" src="https://github.com/user-attachments/assets/3c8df72d-d58f-45a2-8484-849342663f85" />
+
+<img width="1851" height="1141" alt="image" src="https://github.com/user-attachments/assets/2d1fe77f-f779-4805-bdf4-fb01e53e1183" />
+
+<img width="1856" height="1140" alt="image" src="https://github.com/user-attachments/assets/7378f04b-6897-4bd5-ac08-664a0a2e3709" />
+
+<img width="1858" height="1138" alt="image" src="https://github.com/user-attachments/assets/158bc587-c450-4389-afe8-343c8c2b3a4c" />
+
+<img width="1850" height="1140" alt="image" src="https://github.com/user-attachments/assets/a3aaaf84-6666-4606-89d4-5abf8cbf1fbf" />
+
+<img width="1856" height="1141" alt="image" src="https://github.com/user-attachments/assets/8c28f38f-ad4a-40a2-a953-a90f3730dc0f" />
+
+
+<img width="1850" height="1140" alt="image" src="https://github.com/user-attachments/assets/155c2367-ddae-438c-b109-b3d35a481ae8" />
