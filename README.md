@@ -119,4 +119,3 @@ npm install
 npm run dev
 ```
 
-Buka URL lokal yang ditampilkan (biasanya `http://localhost:5173`) pada browser Anda.
